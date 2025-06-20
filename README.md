@@ -3,7 +3,6 @@
 🎓 3rd Year B.Tech CSE Student | 💻 Software Developer |
 📍 New Delhi, India
 
-![Profile views](https://komarev.com/ghpvc/?username=2akj24&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -74,3 +73,4 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=2akj24&label=Profile%20Views&color=0e75b6&style=for-the-badge)
